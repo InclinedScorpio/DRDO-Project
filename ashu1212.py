@@ -7,7 +7,7 @@
 import pandas
 import matplotlib
 import plotly
-plotly.tools.set_credentials_file(username='tiwari.ashutosh12345678', api_key='ib7AwlSfFJWEmJSegt8U')
+plotly.tools.set_credentials_file(username='your username', api_key='Set Your Own here')
 from IPython.display import Markdown, display
 def printmd(string):
     display(Markdown(string))
